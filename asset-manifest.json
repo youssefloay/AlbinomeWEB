@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AlbinomeWEB/static/css/main.90b587b7.css",
+    "main.js": "/AlbinomeWEB/static/js/main.dd54f29c.js",
+    "static/js/787.3f21736f.chunk.js": "/AlbinomeWEB/static/js/787.3f21736f.chunk.js",
+    "static/media/Pizzasize.svg": "/AlbinomeWEB/static/media/Pizzasize.daabfca7824ea9f9cd88d3252df203b3.svg",
+    "static/media/MenuIcon.svg": "/AlbinomeWEB/static/media/MenuIcon.cedb286b42e052ab6e02f80bb2f5385d.svg",
+    "static/media/nousContacter.svg": "/AlbinomeWEB/static/media/nousContacter.0b601f9a937e8715d696c7ae9a21164c.svg",
+    "static/media/Deliveroo.svg": "/AlbinomeWEB/static/media/Deliveroo.c98aa72a35664b1593015cb92e65f53a.svg",
+    "static/media/ubereats.svg": "/AlbinomeWEB/static/media/ubereats.441c9e008a7bbe13a7c7be1fad400a59.svg",
+    "static/media/canicon.svg": "/AlbinomeWEB/static/media/canicon.95519f284f87674d1091922b573ab9d7.svg",
+    "index.html": "/AlbinomeWEB/index.html",
+    "static/media/plusicon.svg": "/AlbinomeWEB/static/media/plusicon.9c8e165116bbd15157499704db235665.svg",
+    "main.90b587b7.css.map": "/AlbinomeWEB/static/css/main.90b587b7.css.map",
+    "main.dd54f29c.js.map": "/AlbinomeWEB/static/js/main.dd54f29c.js.map",
+    "787.3f21736f.chunk.js.map": "/AlbinomeWEB/static/js/787.3f21736f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90b587b7.css",
+    "static/js/main.dd54f29c.js"
+  ]
+}
